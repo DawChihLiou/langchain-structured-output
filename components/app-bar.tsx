@@ -6,7 +6,7 @@ export default function AppBar() {
       <RocketIcon className="w-6 h-6" />
       <div>
         <p className="font-bold font-mono">
-          simple chat
+          structured output
           <span className="text-neutral-500 text-sm">{" / langchain"}</span>
         </p>
       </div>

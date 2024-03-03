@@ -7,8 +7,8 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Simple Chat - LangChain",
-  description: "A simple chat app powered by LangChain.",
+  title: "Structured Output - LangChain",
+  description: "A simple chat app with structured output powered by LangChain.",
 };
 
 export default function RootLayout({
